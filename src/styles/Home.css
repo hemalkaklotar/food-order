@@ -1,0 +1,26 @@
+.pt-pd-45{
+    padding: 4.5rem 0 6.5rem 0;
+}
+.imgbox{
+    float: right;  
+}
+.imgbox img{
+    width: 100%;
+}
+.heading{
+    font-size: 3.7rem;
+}
+.sunheading{
+    margin-top: 22px;
+    color: rgb(82, 82, 82);
+}
+.btn-viewmenu{
+    display: inline-block;
+    border-radius: 12px 12px 0 12px;
+    padding: 12px 2.4rem;
+    font-size: 1.1rem;
+    margin-top: 22px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+}

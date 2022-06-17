@@ -1,0 +1,7 @@
+.btn-add-to-cart{
+    display: inline-block;
+    background-color: #000000;
+    color: white;
+    padding: 5px 12px;
+    border-radius: 8px 8px 0 8px;
+}
